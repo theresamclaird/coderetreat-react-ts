@@ -1,20 +1,17 @@
 # Test-Driven Development (TDD) Cycle
 
-**Test-Driven Development (TDD)** is a software development practice that emphasizes writing tests before implementing functionality.  
-It promotes small, iterative steps that guide design and help ensure that code remains clean, modular, and well-tested.
+**Test-Driven Development (TDD)** is a software development practice that emphasizes writing tests before implementing functionality. It promotes small, iterative steps that guide design and help ensure that code remains clean, modular, and well-tested.
 
 The TDD cycle is often summarized as **Red → Green → Refactor**, but each step carries its own purpose and discipline.
 
 1. **Write a Failing Test (Red):**  
-   Start by writing a test that describes the behavior you want but doesn’t yet exist.  
-   This confirms your test setup works and provides a clear goal for the next step.
+   Start by writing a test that describes the behavior you want but doesn’t yet exist. This confirms your test setup works and provides a clear goal for the next step.
 
 2. **Make the Test Pass (Green):**  
    Write just enough code to make the test pass. Avoid anticipating future requirements — focus only on satisfying the immediate behavior.
 
 3. **Refactor (Improve the Design):**  
-   Once the test passes, clean up your code. Simplify logic, eliminate duplication, and improve readability without changing behavior.  
-   Your test suite now acts as a safety net, allowing you to refactor confidently.
+   Once the test passes, clean up your code. Simplify logic, eliminate duplication, and improve readability without changing behavior. Your test suite now acts as a safety net, allowing you to refactor confidently.
 
 > **Tip:** Keep each cycle short — ideally just a few minutes. During coderetreats, notice how frequent cycles help keep your code clear and prevent “big bang” changes. Discuss with your pair how you recognize the right time to refactor.
 
