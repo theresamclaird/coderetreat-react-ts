@@ -85,7 +85,6 @@ x x x
 > **Tip:**  
 > This kata is less about implementing a perfect simulation and more about exploring *how design evolves*.  
 > Focus on writing small, testable functions that model rules clearly, refactoring as patterns emerge.  
-> During coderetreats, practice pairing and refactoring frequently to improve readability and maintainability.
 
 ---
 
