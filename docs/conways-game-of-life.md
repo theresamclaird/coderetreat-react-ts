@@ -16,7 +16,7 @@ In the examples below:
     `o` = live cell
     `x` = dead cell
 
-At each `tick` the following 4 rules are applied simultaneously to all cells:
+At each `tick` these rules are applied:
 
 1. **Underpopulation** — Any live cell with fewer than two live neighbors dies.
 
