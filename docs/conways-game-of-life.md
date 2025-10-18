@@ -90,9 +90,6 @@ x x x
 
 ## Further Reading
 
-- **John Horton Conway** — *“The Game of Life” (Scientific American, October 1970)*  
-  The original publication introducing the Game of Life and its rules of cellular evolution.
-
 - **Martin Gardner** — *[Mathematical Games: The Fantastic Combinations of John Conway’s New Solitaire Game “Life”](https://www.ibiblio.org/lifepatterns/october1970.html)*  
   Gardner’s seminal article explaining the Game of Life and its cultural impact.
 
