@@ -4,7 +4,6 @@ The **Game of Life**, devised by mathematician John Horton Conway in 1970, is a 
 
 The game's evolution is determined entirely by its initial state — you simply set the starting configuration and observe as the system unfolds.
 
-
 In coderetreats, this exercise is traditionally used to explore design, refactoring, and test-driven development. Because the rules are simple yet lead to complex emergent behavior, it challenges developers to think deeply about data structures, state transitions, and clean separation of logic.
 
 ---
@@ -17,9 +16,7 @@ In the examples below:
     `o` = live cell
     `x` = dead cell
 
-
 At each `tick`:
-
 
 1. **Underpopulation** — Any live cell with fewer than two live neighbors dies.
 
@@ -31,7 +28,6 @@ x x o      x x o
 
 In the first generation the middle cell is alive and has exactly one live neighbor (bottom-right). Because it has fewer than two live neighbors, it is dead in the next generation.
 
-
 2. **Overpopulation** — Any live cell with more than three live neighbors dies.
 
 ```
@@ -41,7 +37,6 @@ x o x      x o x
 ```
 
 The middle cell is alive and has four live neighbors. It dies in the next generation due to overpopulation.
-
 
 3. **Survival** — Any live cell with two or three live neighbors lives on.
 
@@ -53,7 +48,6 @@ x x o      x x o
 
 The middle cell remains alive in the next generation because it has two live neighbors.
 
-
 4. **Reproduction** — Any dead cell with exactly three live neighbors becomes a live cell.
 
 ```
@@ -63,7 +57,6 @@ x x o      x x o
 ```
 
 The middle cell is dead in the first generation but becomes alive in the next due to reproduction.
-
 
 ---
 
