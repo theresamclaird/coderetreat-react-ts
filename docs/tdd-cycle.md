@@ -22,5 +22,5 @@ The TDD cycle is often summarized as **Red → Green → Refactor**, but each st
 - **Kent Beck** — *[Test-Driven Development: By Example (2002)](https://www.pearson.com/en-us/subject-catalog/p/test-driven-development-by-example/P200000000425/9780321146533)*  
   The foundational TDD guide introducing the Red → Green → Refactor loop and the philosophy of incremental, feedback-driven coding.
 
-- **Steve Freeman & Nat Pryce** — *[Growing Object-Oriented Software, Guided by Tests (2009)](https://www.pearson.com/en-us/subject-catalog/p/growing-object-oriented-software-guided-by-tests/P200000000316/9780321503626)*  
+- **Steve Freeman & Nat Pryce** — *[Growing Object-Oriented Software, Guided by Tests (2009)](https://www.pearson.com/en-us/subject-catalog/p/growing-object-oriented-software-guided-by-tests/P200000009298/9780321503626)*  
   A practical exploration of building and evolving systems through tests, emphasizing design emergence and collaboration.
