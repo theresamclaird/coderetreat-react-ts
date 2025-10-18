@@ -1,8 +1,6 @@
 # Four Rules of Simple Design
 
-The **Four Rules of Simple Design** are time-tested principles for creating code that is clean, maintainable, and adaptable.  
-These rules emphasize feedback through tests, clarity of intent, the elimination of duplication, and the pursuit of simplicity through continuous refactoring.  
-By applying them consistently, developers can build systems that evolve gracefully, remain easy to change, and clearly express their purpose.
+The **Four Rules of Simple Design** are time-tested principles for creating code that is clean, maintainable, and adaptable. These rules emphasize feedback through tests, clarity of intent, the elimination of duplication, and the pursuit of simplicity through continuous refactoring. By applying them consistently, developers can build systems that evolve gracefully, remain easy to change, and clearly express their purpose.
 
 1. **Tests Pass:**  
    Tests help identify problems early. Run them continuously so that breaking changes are detected immediately.
