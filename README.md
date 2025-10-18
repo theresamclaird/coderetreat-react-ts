@@ -6,6 +6,10 @@ A minimal React + TypeScript starter for coderetreats.
 
 If you're participating in a coderetreat or planning to run one, you can **fork this repository** as your personal starting point for a React + TypeScript project. Forking allows you to experiment freely, make commits, and track your progress without affecting the original template.
 
+## What to Expect
+
+A coderetreat is a day dedicated to practicing software design and teamwork, free from deadlines or deliverables. You’ll work in short iterations (typically 45–60 minutes), pair with different people, and reset the code between rounds. The focus is on **learning**, **exploration**, and **improvement** — not finishing a project. Expect to experiment, make mistakes, and discuss ideas openly with your pairs. Each round is a fresh opportunity to try new techniques and refine your approach.
+
 ## Quick Start
 ```bash
 npm install
