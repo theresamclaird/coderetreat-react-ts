@@ -1,46 +1,53 @@
-# Getting Started with Create React App
+# Coderetreat React (TypeScript)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A minimal React + TypeScript starter for coderetreats.
 
-## Available Scripts
+## Quick Start
+```bash
+npm install
+npm start
+npm test
+```
 
-In the project directory, you can run:
+## Reset
+```bash
+npm run reset:baseline   # restore src/ to the baseline starter
+```
 
-### `npm start`
+# or
+```bash
+npm run reset:git        # hard reset the repo (⚠ destructive)
+```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Four Rules of Simple Design
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+1. Tests Pass
+    Tests help identify problems early. Run them continuously so that breaking changes are detected immediately.
 
-### `npm test`
+2. Express Intent
+    Make your code easy to read so you don’t have to guess what it does later.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+3. DRY Knowledge (Don't Repeat Yourself)
+    Every piece of knowledge should have one and only one representation.
 
-### `npm run build`
+4. Small/Minimal
+    Look for vestigial code that’s no longer used and remove it. Eliminate duplicate abstractions.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Red -> Green -> Refactor
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Red: Write a unit test which must initially fail.
+2. Green: Make the test pass - write the simplest code that works.
+3. Refactor: Clean up the implementation while keeping tests green.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Conway's Game of Life
 
-### `npm run eject`
+The Game of Life, devised by mathematician John Horton Conway in 1970, is a zero-player cellular automaton. Its evolution is determined entirely by its initial state — you simply set the starting configuration and observe.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Each cell in a two-dimensional grid is alive or dead, and interacts with its eight neighbors (horizontally, vertically, and diagonally). At each tick:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Any live cell with fewer than two live neighbors dies (underpopulation).
+- Any live cell with more than three live neighbors dies (overpopulation).
+- Any live cell with two or three live neighbors lives on.
+- Any dead cell with exactly three live neighbors becomes a live cell.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Each generation is produced by applying these rules simultaneously across the grid — a pure function of the previous state.

@@ -21,7 +21,12 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint . --ext .ts,.tsx",
+    "test:ci": "CI=true npm test",
+    "reset:git": "git reset --hard HEAD && git clean -fdx",
+    "reset:baseline": "node scripts/reset-baseline.mjs"
   },
   "eslintConfig": {
     "extends": [
