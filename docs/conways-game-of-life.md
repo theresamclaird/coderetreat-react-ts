@@ -20,6 +20,7 @@ In the examples below:
 
 At each `tick`:
 
+
 1. **Underpopulation** — Any live cell with fewer than two live neighbors dies.
 
 ```
@@ -29,6 +30,7 @@ x x o      x x o
 ```
 
 In the first generation the middle cell is alive and has exactly one live neighbor (bottom-right). Because it has fewer than two live neighbors, it is dead in the next generation.
+
 
 2. **Overpopulation** — Any live cell with more than three live neighbors dies.
 
@@ -40,6 +42,7 @@ x o x      x o x
 
 The middle cell is alive and has four live neighbors. It dies in the next generation due to overpopulation.
 
+
 3. **Survival** — Any live cell with two or three live neighbors lives on.
 
 ```
@@ -50,6 +53,7 @@ x x o      x x o
 
 The middle cell remains alive in the next generation because it has two live neighbors.
 
+
 4. **Reproduction** — Any dead cell with exactly three live neighbors becomes a live cell.
 
 ```
@@ -59,6 +63,7 @@ x x o      x x o
 ```
 
 The middle cell is dead in the first generation but becomes alive in the next due to reproduction.
+
 
 ---
 
