@@ -28,8 +28,7 @@ x o x  ->  x x x
 x x o      x x o
 ```
 
-In the first generation the middle cell is alive and has exactly one live neighbor (bottom-right).  
-Because it has fewer than two live neighbors, it is dead in the next generation.
+In the first generation the middle cell is alive and has exactly one live neighbor (bottom-right). Because it has fewer than two live neighbors, it is dead in the next generation.
 
 2. **Overpopulation** — Any live cell with more than three live neighbors dies.
 
@@ -39,8 +38,7 @@ x o o  ->  x x o
 x o x      x o x
 ```
 
-The middle cell is alive and has four live neighbors.  
-It dies in the next generation due to overpopulation.
+The middle cell is alive and has four live neighbors. It dies in the next generation due to overpopulation.
 
 3. **Survival** — Any live cell with two or three live neighbors lives on.
 
