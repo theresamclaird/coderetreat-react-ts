@@ -11,16 +11,12 @@ npm test
 
 ## Reset
 
-There are two ways to reset. The first, `reset:baseline` restores the `src/` folder to its clean, starting state, while preserving commits, configuration, README, etc.
+During a coderetreat, it’s essential to reset after each round. Remember — the goal is to practice, not to produce code that needs to be reviewed or deployed. Resetting gives you the freedom to experiment, make mistakes, and learn from them without consequence. Each new round is a chance to start fresh, try a different approach, and explore new design ideas with a clean slate.
+
+This script will restore your `src/` folder to its clean, starting state.
 
 ```bash
-npm run reset:baseline   # restore src/ to the baseline starter
-```
-
-The next, `reset:git` method is like a *factory reset* and will wipe all uncommitted code chnages, untracked files, and node modules.
-
-```bash
-npm run reset:git        # hard reset the repo (⚠ destructive)
+npm run reset:baseline
 ```
 
 ## Documentation
