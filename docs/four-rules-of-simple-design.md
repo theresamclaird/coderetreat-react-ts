@@ -23,7 +23,7 @@ The **Four Rules of Simple Design** are time-tested principles for creating code
 
 ## Further Reading
 
-- **Kent Beck** — *[Extreme Programming Explained: Embrace Change (1st Edition, 1999)](https://www.pearson.com/en-us/subject-catalog/p/extreme-programming-explained-embrace-change/P200000000333/9780201616415)*  
+- **Kent Beck** — *[Extreme Programming Explained: Embrace Change (1st Edition, 1999)](https://www.pearson.com/en-us/subject-catalog/p/extreme-programming-explained-embrace-change/P200000000118/9780134051994)*  
   Introduces the Four Rules of Simple Design within the context of Extreme Programming and iterative feedback.
 
 - **Corey Haines** — *[Understanding the Four Rules of Simple Design (2014)](https://leanpub.com/4rulesofsimpledesign)*  
