@@ -10,11 +10,15 @@ npm test
 ```
 
 ## Reset
+
+There are two ways to reset. The first, `reset:baseline` restores the `src/` folder to its clean, starting state, while preserving commits, configuration, README, etc.
+
 ```bash
 npm run reset:baseline   # restore src/ to the baseline starter
 ```
 
-or
+The next, `reset:git` method is like a *factory reset* and will wipe all uncommitted code chnages, untracked files, and node modules.
+
 ```bash
 npm run reset:git        # hard reset the repo (⚠ destructive)
 ```
