@@ -13,7 +13,7 @@ The TDD cycle is often summarized as **Red → Green → Refactor**, but each st
 3. **Refactor (Improve the Design):**  
    Once the test passes, clean up your code. Simplify logic, eliminate duplication, and improve readability without changing behavior. Your test suite now acts as a safety net, allowing you to refactor confidently.
 
-> **Tip:** Keep each cycle short — ideally just a few minutes. During coderetreats, notice how frequent cycles help keep your code clear and prevent “big bang” changes. Discuss with your pair how you recognize the right time to refactor.
+> **Tip:** Keep each cycle short — ideally just a few minutes. During coderetreats, notice how frequent cycles help keep your code clear and prevent “big bang” changes.
 
 ---
 
