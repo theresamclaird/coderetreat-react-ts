@@ -21,17 +21,13 @@ npm run reset:git        # hard reset the repo (⚠ destructive)
 
 ## Four Rules of Simple Design
 
-1. Tests Pass
-    Tests help identify problems early. Run them continuously so that breaking changes are detected immediately.
+1. Tests Pass: Tests help identify problems early. Run them continuously so that breaking changes are detected immediately.
 
-2. Express Intent
-    Make your code easy to read so you don’t have to guess what it does later.
+2. Express Intent: Make your code easy to read so you don’t have to guess what it does later.
 
-3. DRY Knowledge (Don't Repeat Yourself)
-    Every piece of knowledge should have one and only one representation.
+3. DRY Knowledge (Don't Repeat Yourself): Every piece of knowledge should have one and only one representation.
 
-4. Small/Minimal
-    Look for vestigial code that’s no longer used and remove it. Eliminate duplicate abstractions.
+4. Small/Minimal: Look for vestigial code that’s no longer used and remove it. Eliminate duplicate abstractions.
 
 ## Red -> Green -> Refactor
 
