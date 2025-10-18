@@ -16,7 +16,7 @@ In the examples below:
     `o` = live cell
     `x` = dead cell
 
-At each `tick`:
+At each `tick` the following 4 rules are applied simultaneously to all cells:
 
 1. **Underpopulation** — Any live cell with fewer than two live neighbors dies.
 
@@ -26,7 +26,7 @@ x o x  ->  x x x
 x x o      x x o
 ```
 
-In the first generation the middle cell is alive and has exactly one live neighbor (bottom-right). Because it has fewer than two live neighbors, it is dead in the next generation.
+In the first generation the middle cell is alive and has exactly one live neighbor (bottom-right). It dies in the next generation due to underpopulation.
 
 2. **Overpopulation** — Any live cell with more than three live neighbors dies.
 
