@@ -14,7 +14,7 @@ npm test
 npm run reset:baseline   # restore src/ to the baseline starter
 ```
 
-# or
+or
 ```bash
 npm run reset:git        # hard reset the repo (⚠ destructive)
 ```
