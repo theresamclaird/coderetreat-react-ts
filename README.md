@@ -32,7 +32,7 @@ A few tips:
 - Talk about your approach before you start typing.  
 - Take small steps and commit frequently.  
 - Switch roles often: e.g. when doing driver/navigator, take turns.
-- Focus on communication, not correctness; every pairing is a chance to learn.
+- Focus on communication over correctness — every pairing is a chance to learn.
 
 ## Quick Start
 
@@ -61,7 +61,7 @@ npm run reset:baseline
 
 ## Retro Between Rounds
 
-After each round, we will do a quick retro, giving each pair the opportunity to answer 3 questions:
+After each round, we take a few minutes to reflect as a group:
 
 - What did you learn?
 - What surprised you?
@@ -101,3 +101,7 @@ Here are a few classic examples:
 - **Prime Factors** — Reinforces small-step problem solving and function composition.  
 
 Each kata presents different opportunities to explore **clean code**, **TDD**, and **pair programming** skills in a safe, time-boxed setting.
+
+## License
+
+This project is open for educational use. Feel free to fork, modify, and share it for your own coderetreats.
