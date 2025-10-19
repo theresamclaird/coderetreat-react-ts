@@ -1,10 +1,10 @@
-# Coderetreat React (TypeScript)
+# Coderetreat React, TypeScript, Jest
 
 A minimal React + TypeScript + Jest starter for coderetreats.
 
 ## Getting Started
 
-If you're participating in a coderetreat, **fork this repository** as your personal starting point for a React + TypeScript + Jest project. Forking allows you to experiment freely, make commits, and track your progress without affecting the original template.
+If you're participating in a coderetreat, **fork this repository** as your personal starting point for a React + TypeScript + Jest project.
 
 <!-- include: docs/readme-parts/what-to-expect.md levelOffset=1 -->
 

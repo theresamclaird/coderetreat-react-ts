@@ -85,7 +85,11 @@ Reflection is where the real learning happens; it turns coding exercises into in
 <!-- end-include: docs/readme-parts/retro-between-rounds.md -->
 
 <!-- begin-include: docs/readme-parts/documentation.md -->
+<<<<<<< HEAD
 ## Documentation
+=======
+### Documentation
+>>>>>>> a42325a583ecc36b5f5cbe28dad43f7d924649d6
 
 This project includes additional reference material in the [`/docs`](./docs) folder to support coderetreat sessions and TDD practice:
 
@@ -106,7 +110,11 @@ This project includes additional reference material in the [`/docs`](./docs) fol
 <!-- end-include: docs/readme-parts/documentation.md -->
 
 <!-- begin-include: docs/readme-parts/other-katas.md -->
+<<<<<<< HEAD
 ## Other Katas
+=======
+### Other Katas
+>>>>>>> a42325a583ecc36b5f5cbe28dad43f7d924649d6
 
 While the **Game of Life** is a popular choice for coderetreats, you can use this project as a starting point for any problem that encourages incremental design and refactoring. Choose exercises that are small, testable, and open-ended enough to spark discussion about design choices and collaboration.
 
@@ -122,7 +130,11 @@ Each kata presents different opportunities to explore **clean code**, **TDD**, a
 <!-- end-include: docs/readme-parts/other-katas.md -->
 
 <!-- begin-include: docs/readme-parts/license.md -->
+<<<<<<< HEAD
 ## License
+=======
+### License
+>>>>>>> a42325a583ecc36b5f5cbe28dad43f7d924649d6
 
 This project is open for educational use. Feel free to fork, modify, and share it for your own coderetreats.
 <!-- end-include: docs/readme-parts/license.md -->
