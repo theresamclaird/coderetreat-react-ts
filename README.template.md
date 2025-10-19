@@ -1,4 +1,4 @@
-# Coderetreat React, TypeScript, Jest
+# Coderetreat Starter: React, TypeScript, Jest
 
 A minimal React + TypeScript + Jest starter for coderetreats.
 
