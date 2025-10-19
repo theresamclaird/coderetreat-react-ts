@@ -1,15 +1,23 @@
+<!--
+  NOTE: This file is generated. Do not edit README.md directly.
+  Edit README.template.md and shared fragments in vendor/coderetreat-docs/.
+-->
+
 # Coderetreat React (TypeScript)
 
-A minimal React + TypeScript starter for coderetreats.
+A minimal React + TypeScript + Jest starter for coderetreats.
 
 ## Getting Started
 
-If you're participating in a coderetreat, **fork this repository** as your personal starting point for a React + TypeScript project. Forking allows you to experiment freely, make commits, and track your progress without affecting the original template.
+If you're participating in a coderetreat, **fork this repository** as your personal starting point for a React + TypeScript + Jest project. Forking allows you to experiment freely, make commits, and track your progress without affecting the original template.
 
+<!-- begin-include: docs/readme-parts/what-to-expect.md -->
 ## What to Expect
 
 A coderetreat is a day dedicated to practicing software design and teamwork, free from deadlines or deliverables. You’ll work in short iterations (typically 45–60 minutes), pair with different people, and reset the code between rounds. The focus is on **learning**, **exploration**, and **improvement** — not finishing a project. Expect to experiment, make mistakes, and discuss ideas openly with your pairs. Each round is a fresh opportunity to try new techniques and refine your approach.
+<!-- end-include: docs/readme-parts/what-to-expect.md -->
 
+<!-- begin-include: docs/readme-parts/goals.md -->
 ## Goals of a Coderetreat
 
 A coderetreat is about *deliberate practice* — improving the craft of software development through repetition, feedback, and collaboration. There’s no pressure to finish or to keep your code.
@@ -22,19 +30,11 @@ The goal is to:
 - Reflect after each round to identify new insights.
 
 Focus on learning — not outcomes. The value comes from the conversations, experiments, and refactoring you do along the way.
+<!-- end-include: docs/readme-parts/goals.md -->
 
-## Pairing and Collaboration
-
-Coderetreats are best experienced through **pair programming**. You’ll rotate partners between sessions, which helps you see different problem-solving styles and coding habits.  
-
-There are several ways to pair — such as *driver/navigator*, *ping-pong pairing* (test/code switch), or *strong-style pairing* (where the idea must be spoken aloud before the other types it). Feel free to experiment and see which style fits your rhythm.
-
-A few tips:
-
-- Talk about your approach before you start typing.  
-- Take small steps and commit frequently.  
-- Switch roles often to stay engaged and balanced.  
-- Focus on communication over correctness — every pairing is a chance to learn.
+<!-- begin-include: docs/readme-parts/pairing-and-collaboration.md -->
+> ⚠️ **Include not found**: `docs/readme-parts/pairing-and-collaboration.md`
+<!-- end-include: docs/readme-parts/pairing-and-collaboration.md -->
 
 ## Quick Start
 
@@ -61,6 +61,7 @@ This script will restore your `src/` folder to its clean, starting state. Do thi
 npm run reset:baseline
 ```
 
+<!-- begin-include: docs/readme-parts/retro-between-rounds.md -->
 ## Retro Between Rounds
 
 After each round, we take a few minutes to reflect as a group:
@@ -70,8 +71,14 @@ After each round, we take a few minutes to reflect as a group:
 - What would you try differently next time?
 
 Reflection is where the real learning happens; it turns coding exercises into insight.
+<!-- end-include: docs/readme-parts/retro-between-rounds.md -->
 
+<!-- begin-include: docs/readme-parts/documentation.md -->
+<<<<<<< HEAD
 ## Documentation
+=======
+### Documentation
+>>>>>>> a42325a583ecc36b5f5cbe28dad43f7d924649d6
 
 This project includes additional reference material in the [`/docs`](./docs) folder to support coderetreat sessions and TDD practice:
 
@@ -89,8 +96,14 @@ This project includes additional reference material in the [`/docs`](./docs) fol
 > **Tip:**  
 > During coderetreats, use these documents as prompts for discussion, reflection, and iteration.  
 > They’re meant to inspire experimentation — not prescribe a single approach.
+<!-- end-include: docs/readme-parts/documentation.md -->
 
+<!-- begin-include: docs/readme-parts/other-katas.md -->
+<<<<<<< HEAD
 ## Other Katas
+=======
+### Other Katas
+>>>>>>> a42325a583ecc36b5f5cbe28dad43f7d924649d6
 
 While the **Game of Life** is a popular choice for coderetreats, you can use this project as a starting point for any problem that encourages incremental design and refactoring. Choose exercises that are small, testable, and open-ended enough to spark discussion about design choices and collaboration.
 
@@ -103,7 +116,14 @@ Here are a few classic examples:
 - **Prime Factors** — Reinforces small-step problem solving and function composition.  
 
 Each kata presents different opportunities to explore **clean code**, **TDD**, and **pair programming** skills in a safe, time-boxed setting.
+<!-- end-include: docs/readme-parts/other-katas.md -->
 
+<!-- begin-include: docs/readme-parts/license.md -->
+<<<<<<< HEAD
 ## License
+=======
+### License
+>>>>>>> a42325a583ecc36b5f5cbe28dad43f7d924649d6
 
 This project is open for educational use. Feel free to fork, modify, and share it for your own coderetreats.
+<!-- end-include: docs/readme-parts/license.md -->
