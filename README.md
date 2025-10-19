@@ -34,19 +34,20 @@ A few tips:
 - Switch roles often: e.g. when doing driver/navigator, take turns.
 - Focus on communication, not correctness; every pairing is a chance to learn.
 
+## Quick Start
+
+```bash
+npm install
+npm start
+npm test
+```
+
 ## Requirements
 
 - Node.js 18 or newer
 - npm 8 or newer
 - A modern code editor
 - Git
-
-## Quick Start
-```bash
-npm install
-npm start
-npm test
-```
 
 ## Reset
 
@@ -58,7 +59,7 @@ This script will restore your `src/` folder to its clean, starting state. Do thi
 npm run reset:baseline
 ```
 
-## Reflection Between Rounds
+## Retro Between Rounds
 
 After each round, we will do a quick retro, giving each pair the opportunity to answer 3 questions:
 
