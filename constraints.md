@@ -36,22 +36,27 @@ No implementation until you have at least three failing tests. Reinforces planni
 
 No function or method can exceed five lines. Encourages decomposition and naming.
 
+The link to Corey Haines facilitator guide below contains several interesting suggestions. One of my favorites is **Evil Coder** where a deliberately malicious driver implements code that technically makes the test pass, but may introduce as much complexity into the code as they wish or choose an obscure implementation strategy.
+
+Explore constraints and have fun!
+
 ## Tips for Facilitators (or Pairs)
 
-	- Choose constraints that align with what you want to explore next.
+  - Choose constraints that align with what you want to explore next.
+  - Choose constraints that align with what you want to explore next.
 	- Introduce one new constraint per round—don’t stack too many.
 	- Reflect afterward: What did we learn from the limitation?
 	- Don’t worry about finishing—focus on what you discover.
 
 ⸻
 
-## Try This
+## Explore Constraints This Afternoon
 
-By the afternoon, try at least one constraint that feels uncomfortable. It’s often in those rounds that the biggest insights happen.
+By the afternoon or after a couple of rounds you will have become familiar with the problem domain. This is a great time to try a constraint that feels uncomfortable. It’s often in those rounds that the biggest insights happen.
 
 ⸻
 
 ## Further Reading
 
-	- [Corey Haines – Coderetreat Facilitator Guide](https://coderetreat.org/facilitators/constraints/)
+  - [Corey Haines – Coderetreat Facilitator Guide](https://coderetreat.org/facilitators/constraints/)
 	- [Emily Bache – The Coding Dojo Handbook](https://leanpub.com/codingdojohandbook)
