@@ -53,5 +53,4 @@ If you usually default to Driver/Navigator, try Ping-Pong or Strong-Style pairin
 ## Further Reading
 - [Llewellyn Falco – Strong-Style Pairing](https://llewellynfalco.blogspot.com/2014/06/llewellyns-strong-style-pairing.html)
 - [Martin Fowler – Pair Programming](https://martinfowler.com/articles/on-pair-programming.html)
-- [Emily Bache – Effective Pair Programming](https://coding-is-like-cooking.info/2013/07/effective-pair-programming/)
-- [Agile Alliance – Pair Programming Definition](https://www.agilealliance.org/glossary/pairing/)
+- [Agile Alliance – Pair Programming Definition](https://agilealliance.org/glossary/pair-programming/)
