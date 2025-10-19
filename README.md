@@ -73,7 +73,7 @@ When pairing remotely, use tools like VS Code Live Share or Tuple, and switch co
 
 ### Tips for Effective Pairing
 
-	- **Agree on a style** before you start each session; try switching it up between rounds.
+  - **Agree on a style** before you start each session; try switching it up between rounds.
   - **Talk before you type.** Discuss the next step before diving in.
   - **Work in small steps.** Test, code, refactor, repeat.
   - **Stay curious.** Ask questions, try new techniques, and reflect afterward.
