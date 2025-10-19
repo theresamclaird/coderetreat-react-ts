@@ -44,9 +44,9 @@ Explore constraints and have fun!
 
   - Choose constraints that align with what you want to explore next.
   - Choose constraints that align with what you want to explore next.
-  - Introduce one new constraint per round—don’t stack too many.
-	- Reflect afterward: What did we learn from the limitation?
-	- Don’t worry about finishing—focus on what you discover.
+  - Introduce one new constraint per round; don’t stack too many.
+  - Reflect afterward: What did we learn from the limitation?
+  - Don’t worry about finishing; focus on what you discover.
 
 ⸻
 
