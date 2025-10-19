@@ -22,7 +22,7 @@ A coderetreat is a day dedicated to practicing software design and teamwork, fre
 
 A coderetreat is about *deliberate practice* - improving the craft of software development through repetition, feedback, and collaboration. There’s no pressure to finish or to keep your code.
 
-The goal is to:
+The goals are:
 
 - Write tests first and practice incremental design.
 - Explore different ways to model the same problem.
