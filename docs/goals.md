@@ -13,4 +13,4 @@ Focus on learning, not outcomes. The value comes from the conversations, experim
 
 ---
 
-[← Previous: What to Expect](../README.md) | [Next: Pairing and Collaboration →](./pairing-and-collaboration.md)
+[← Previous: What to Expect](../what-to-expect.md) | [Next: Pairing and Collaboration →](./pairing-and-collaboration.md)
