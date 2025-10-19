@@ -4,7 +4,7 @@ A minimal React + TypeScript starter for coderetreats.
 
 ## Getting Started
 
-If you're participating in a coderetreat **fork this repository** as your personal starting point for a React + TypeScript project. Forking allows you to experiment freely, make commits, and track your progress without affecting the original template.
+If you're participating in a coderetreat, **fork this repository** as your personal starting point for a React + TypeScript project. Forking allows you to experiment freely, make commits, and track your progress without affecting the original template.
 
 ## What to Expect
 
