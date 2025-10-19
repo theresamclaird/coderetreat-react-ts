@@ -4,19 +4,9 @@ A coderetreat is a day dedicated to practicing software design and teamwork, fre
 
 ---
 
-<style>
-  .applesauce {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-    width: 100%;
-  }
-</style>
-
-<div class="applesauce">
-
-⬅️ [Previous: *README*](../README.md)  
-➡️ [Next: *Goals of a Coderetreat*](./goals.md)
-
+<table width="100%">
+  <tr>
+    <td>⬅️ [Previous: *README*](../README.md)</td>
+    <td>➡️ [Next: *Goals of a Coderetreat*](./goals.md)</td>
+  </tr>
 </div>
