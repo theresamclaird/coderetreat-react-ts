@@ -24,3 +24,7 @@ The TDD cycle is often summarized as **Red → Green → Refactor**, but each st
 
 - **Steve Freeman & Nat Pryce** — *[Growing Object-Oriented Software, Guided by Tests (2009)](https://www.pearson.com/en-us/subject-catalog/p/growing-object-oriented-software-guided-by-tests/P200000009298/9780321503626)*  
   A practical exploration of building and evolving systems through tests, emphasizing design emergence and collaboration.
+
+---
+  
+[← Previous: Four Rules of Simple Design](./four-rules-of-simple-design.md) | [Next: Conway's Game of Life →](./conways-game-of-life.md)

@@ -10,3 +10,7 @@ The goals are:
 - Reflect after each round to identify new insights.
 
 Focus on learning, not outcomes. The value comes from the conversations, experiments, and refactoring you do along the way.
+
+---
+
+[← Previous: What to Expect](../README.md) | [Next: Pairing and Collaboration →](./pairing-and-collaboration.md)

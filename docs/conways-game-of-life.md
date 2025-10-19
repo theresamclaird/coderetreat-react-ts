@@ -98,3 +98,7 @@ x x x
 
 - **Wikipedia** — *[Conway’s Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)*  
   A comprehensive overview of the Game of Life, common patterns, and its influence on computer science.
+
+  ---
+    
+[← Previous: The TDD Cycle](./tdd-cycle.md) | [Next: Other Katas →](./other-katas.md)
