@@ -1,4 +1,4 @@
-## Pairing and Collaboration
+# Pairing and Collaboration
 
 Coderetreats are best experienced through **pair programming**. You’ll rotate partners between sessions, which helps you see different problem-solving styles and coding habits.  
 

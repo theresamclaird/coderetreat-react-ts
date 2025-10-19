@@ -26,7 +26,9 @@
     "lint": "eslint . --ext .ts,.tsx",
     "test:ci": "CI=true npm test",
     "reset:git": "git reset --hard HEAD && git clean -fdx",
-    "reset:baseline": "node scripts/reset-baseline.mjs"
+    "reset:baseline": "node scripts/reset-baseline.mjs",
+    "readme:build": "node scripts/build-readme.mjs",
+    "readme:watch": "node scripts/build-readme.mjs --watch"
   },
   "eslintConfig": {
     "extends": [

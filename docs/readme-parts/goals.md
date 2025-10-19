@@ -1,4 +1,4 @@
-## Goals of a Coderetreat
+# Goals of a Coderetreat
 
 A coderetreat is about *deliberate practice* — improving the craft of software development through repetition, feedback, and collaboration. There’s no pressure to finish or to keep your code.
 
