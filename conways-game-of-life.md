@@ -13,8 +13,11 @@ In coderetreats, this exercise is traditionally used to explore design, refactor
 Each cell in a two-dimensional grid is either *alive* or *dead*, and interacts with its eight neighbors (horizontally, vertically, and diagonally). Each generation is produced by applying these rules simultaneously to every cell in the grid, making each new state a pure function of the previous one.
 
 In the examples below:
-    `o` = live cell
-    `x` = dead cell
+
+  `o` = live cell
+  `x` = dead cell
+
+In the examples that follow for each rule, only the center cell is being evaluated and shown as changing. This simplification helps illustrate what happens to a single cell when a rule is applied. In an actual Game of Life simulation, every cell on the grid is updated simultaneously each generation. Cells along the edges may also change, but those are ignored here to keep the focus on the center cell’s behavior.
 
 At each `tick` these rules are applied:
 
