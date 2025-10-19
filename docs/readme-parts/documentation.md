@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Documentation
+=======
+## Documentation
+>>>>>>> a42325a583ecc36b5f5cbe28dad43f7d924649d6
 
 This project includes additional reference material in the [`/docs`](./docs) folder to support coderetreat sessions and TDD practice:
 
