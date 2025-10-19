@@ -3,7 +3,7 @@
   Edit README.template.md and shared fragments in vendor/coderetreat-docs/.
 -->
 
-# Coderetreat React (TypeScript)
+# Coderetreat React, TypeScript, Jest
 
 A minimal React + TypeScript + Jest starter for coderetreats.
 
