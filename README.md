@@ -10,6 +10,37 @@ If you're participating in a coderetreat or planning to run one, you can **fork 
 
 A coderetreat is a day dedicated to practicing software design and teamwork, free from deadlines or deliverables. You’ll work in short iterations (typically 45–60 minutes), pair with different people, and reset the code between rounds. The focus is on **learning**, **exploration**, and **improvement** — not finishing a project. Expect to experiment, make mistakes, and discuss ideas openly with your pairs. Each round is a fresh opportunity to try new techniques and refine your approach.
 
+## Goals of a Coderetreat
+
+A coderetreat is about *deliberate practice* — improving the craft of software development through repetition, feedback, and collaboration. There’s no pressure to finish or to keep your code.
+
+The goal is to:
+
+- Write tests first and practice incremental design.
+- Explore different ways to model the same problem.
+- Pair with others and share perspectives.
+- Reflect after each round to identify new insights.
+
+Focus on learning — not outcomes. The value comes from the conversations, experiments, and refactoring you do along the way.
+
+## Pairing and Collaboration
+
+Coderetreats are best experienced through **pair programming**. You’ll rotate partners between sessions, which helps you see different problem-solving styles and coding habits.  
+
+A few tips:
+
+- Talk about your approach before you start typing.  
+- Take small steps and commit frequently.  
+- Switch roles often: e.g. when doing driver/navigator, take turns.
+- Focus on communication, not correctness; every pairing is a chance to learn.
+
+## Requirements
+
+- Node.js 18 or newer
+- npm 8 or newer
+- A modern code editor
+- Git
+
 ## Quick Start
 ```bash
 npm install
@@ -26,6 +57,16 @@ This script will restore your `src/` folder to its clean, starting state. Do thi
 ```bash
 npm run reset:baseline
 ```
+
+## Reflection Between Rounds
+
+After each round, we will do a quick retro, giving each pair the opportunity to answer 3 questions:
+
+- What did you learn?
+- What surprised you?
+- What would you try differently next time?
+
+Reflection is where the real learning happens; it turns coding exercises into insight.
 
 ## Documentation
 
