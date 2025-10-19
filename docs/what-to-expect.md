@@ -4,7 +4,7 @@ A coderetreat is a day dedicated to practicing software design and teamwork, fre
 
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; width: 100%;">
 
 ⬅️ [Previous: *README*](../README.md)  
 ➡️ [Next: *Goals of a Coderetreat*](./goals.md)
