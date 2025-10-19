@@ -14,4 +14,4 @@ Each kata presents different opportunities to explore **clean code**, **TDD**, a
 
 ---
   
-[← Previous: Conway's Game of Life](./conways-game-of-life.md) | [Next: Return to README →](../README.md)
+[← Previous: Conway's Game of Life](./conways-game-of-life.md) | [Return to README →](../README.md)
