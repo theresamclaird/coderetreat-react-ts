@@ -28,3 +28,7 @@ The **Four Rules of Simple Design** are time-tested principles for creating code
 
 - **Corey Haines** — *[Understanding the Four Rules of Simple Design (2014)](https://leanpub.com/4rulesofsimpledesign)*  
   A deep, hands-on exploration of how to apply these rules during TDD and refactoring exercises.
+
+---
+  
+[← Previous: Constraints](./constraints.md) | [Next: The TDD Cycle →](./tdd-cycle.md)

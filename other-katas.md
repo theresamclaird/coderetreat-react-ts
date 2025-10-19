@@ -11,3 +11,7 @@ Here are a few classic examples:
 - **Prime Factors**: Reinforces small-step problem solving and function composition.  
 
 Each kata presents different opportunities to explore **clean code**, **TDD**, and **pair programming** skills in a safe, time-boxed setting.
+
+---
+  
+[← Previous: Conway's Game of Life](./conways-game-of-life.md) | [Next: README →](../README.md)

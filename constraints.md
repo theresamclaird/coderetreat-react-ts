@@ -61,3 +61,7 @@ If you’re new to coderetreats, wait until the afternoon or after a few rounds 
 
   - [Corey Haines – Coderetreat Facilitator Guide](https://coderetreat.org/facilitators/constraints/)
   - [Emily Bache – The Coding Dojo Handbook](https://leanpub.com/codingdojohandbook)
+
+---
+  
+[← Previous: Pairing and Collaboration](./pairing-and-collaboration.md) | [Next: Four Rules of Simple Design →](./four-rules-of-simple-design.md)
