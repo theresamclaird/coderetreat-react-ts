@@ -4,9 +4,9 @@ A coderetreat is a day dedicated to practicing software design and teamwork, fre
 
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-
-⬅️ [Previous: *README*](../README.md)  
-➡️ [Next: *Goals of a Coderetreat*](./goals.md)
-
-</div>
+<table width="100%">
+  <tr>
+    <td align="left">⬅️ <a href="../README.md"><em>Previous: README</em></a></td>
+    <td align="right"><a href="./goals.md"><em>Next: Goals of a Coderetreat</em></a> ➡️</td>
+  </tr>
+</table>
