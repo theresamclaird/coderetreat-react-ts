@@ -5,6 +5,8 @@ A coderetreat is a day dedicated to practicing software design and teamwork, fre
 ---
 
 <div align="center">
+
 ⬅️ [Previous: *README*](../README.md)  
 ➡️ [Next: *Goals of a Coderetreat*](./goals.md)
+
 </div>
