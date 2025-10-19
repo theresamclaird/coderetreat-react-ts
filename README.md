@@ -14,13 +14,13 @@ If you're participating in a coderetreat, **fork this repository** as your perso
 <!-- begin-include: docs/readme-parts/what-to-expect.md -->
 ## What to Expect
 
-A coderetreat is a day dedicated to practicing software design and teamwork, free from deadlines or deliverables. You’ll work in short iterations (typically 45–60 minutes), pair with different people, and reset the code between rounds. The focus is on **learning**, **exploration**, and **improvement** — not finishing a project. Expect to experiment, make mistakes, and discuss ideas openly with other participants. Each round is a fresh opportunity to try new techniques and refine your approach.
+A coderetreat is a day dedicated to practicing software design and teamwork, free from deadlines or deliverables. You’ll work in short iterations (typically 45–60 minutes), pair with different people, and reset the code between rounds. The focus is on **learning**, **exploration**, and **improvement** - not finishing a project. Expect to experiment, make mistakes, and discuss ideas openly with other participants. Each round is a fresh opportunity to try new techniques and refine your approach.
 <!-- end-include: docs/readme-parts/what-to-expect.md -->
 
 <!-- begin-include: docs/readme-parts/goals.md -->
 ## Goals of a Coderetreat
 
-A coderetreat is about *deliberate practice* — improving the craft of software development through repetition, feedback, and collaboration. There’s no pressure to finish or to keep your code.
+A coderetreat is about *deliberate practice* - improving the craft of software development through repetition, feedback, and collaboration. There’s no pressure to finish or to keep your code.
 
 The goal is to:
 
@@ -29,7 +29,7 @@ The goal is to:
 - Pair with others and share perspectives.
 - Reflect after each round to identify new insights.
 
-Focus on learning — not outcomes. The value comes from the conversations, experiments, and refactoring you do along the way.
+Focus on learning, not outcomes. The value comes from the conversations, experiments, and refactoring you do along the way.
 <!-- end-include: docs/readme-parts/goals.md -->
 
 <!-- begin-include: docs/readme-parts/pairing-and-collaboration.md -->
@@ -37,14 +37,14 @@ Focus on learning — not outcomes. The value comes from the conversations, expe
 
 Coderetreats are best experienced through **pair programming**. You’ll rotate partners between sessions, which helps you see different problem-solving styles and coding habits.  
 
-There are several ways to pair — such as *driver/navigator*, *ping-pong pairing* (test/code switch), or *strong-style pairing* (where the idea must be spoken aloud before the other types it). Feel free to experiment and see which style fits your rhythm.
+There are several ways to pair, such as *driver/navigator*, *ping-pong pairing* (test/code switch), or *strong-style pairing* (where the idea must be spoken aloud before the other types it). Feel free to experiment and see which style fits your rhythm.
 
 A few tips:
 
 - Talk about your approach before you start typing.  
 - Take small steps and commit frequently.  
 - Switch roles often to stay engaged and balanced.  
-- Focus on communication over correctness — every pairing is a chance to learn.
+- Focus on communication over correctness; every pairing is a chance to learn.
 <!-- end-include: docs/readme-parts/pairing-and-collaboration.md -->
 
 ## Quick Start
@@ -112,11 +112,11 @@ While the **Game of Life** is a popular choice for coderetreats, you can use thi
 
 Here are a few classic examples:
 
-- **FizzBuzz** — A simple introduction to test-driven thinking and refactoring loops and conditions.  
-- **String Calculator** — Focuses on incremental test discovery and handling edge cases gracefully.  
-- **Roman Numerals** — Encourages thinking about data transformations and algorithmic clarity.  
-- **Bowling Game** — A slightly larger kata involving cumulative state and scoring rules.  
-- **Prime Factors** — Reinforces small-step problem solving and function composition.  
+- **FizzBuzz**: A simple introduction to test-driven thinking and refactoring loops and conditions.  
+- **String Calculator**: Focuses on incremental test discovery and handling edge cases gracefully.  
+- **Roman Numerals**: Encourages thinking about data transformations and algorithmic clarity.  
+- **Bowling Game**: A slightly larger kata involving cumulative state and scoring rules.  
+- **Prime Factors**: Reinforces small-step problem solving and function composition.  
 
 Each kata presents different opportunities to explore **clean code**, **TDD**, and **pair programming** skills in a safe, time-boxed setting.
 <!-- end-include: docs/readme-parts/other-katas.md -->
