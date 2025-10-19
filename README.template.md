@@ -6,14 +6,6 @@ A minimal React + TypeScript + Jest starter for coderetreats.
 
 If you're participating in a coderetreat, **fork this repository** as your personal starting point for a React + TypeScript + Jest project.
 
-<!-- include: docs/readme-parts/what-to-expect.md levelOffset=1 -->
-
-<!-- include: docs/readme-parts/goals.md levelOffset=1 -->
-
-<!-- include: docs/readme-parts/pairing-and-collaboration.md levelOffset=1 -->
-
-<!-- include: docs/constraints.md levelOffset=1 -->
-
 ## Quick Start
 
 ```bash
@@ -39,10 +31,6 @@ This script will restore your `src/` folder to its clean, starting state. Do thi
 npm run reset:baseline
 ```
 
-<!-- include: docs/readme-parts/retro-between-rounds.md levelOffset=1 -->
+<!-- include: docs/learn-more.md levelOffset=1 -->
 
-<!-- include: docs/readme-parts/documentation.md levelOffset=1 -->
-
-<!-- include: docs/readme-parts/other-katas.md levelOffset=1 -->
-
-<!-- include: docs/readme-parts/license.md levelOffset=1 -->
+<!-- include: docs/license.md levelOffset=1 -->
