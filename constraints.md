@@ -59,4 +59,4 @@ By the afternoon or after a couple of rounds you will have become familiar with 
 ## Further Reading
 
   - [Corey Haines – Coderetreat Facilitator Guide](https://coderetreat.org/facilitators/constraints/)
-	- [Emily Bache – The Coding Dojo Handbook](https://leanpub.com/codingdojohandbook)
+  - [Emily Bache – The Coding Dojo Handbook](https://leanpub.com/codingdojohandbook)
