@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # Other Katas
-=======
-## Other Katas
->>>>>>> a42325a583ecc36b5f5cbe28dad43f7d924649d6
 
 While the **Game of Life** is a popular choice for coderetreats, you can use this project as a starting point for any problem that encourages incremental design and refactoring. Choose exercises that are small, testable, and open-ended enough to spark discussion about design choices and collaboration.
 
