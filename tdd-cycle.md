@@ -8,12 +8,12 @@ The TDD cycle is often summarized as **Red → Green → Refactor**, but each st
    Start by writing a test that describes the behavior you want but doesn’t yet exist. This confirms your test setup works and provides a clear goal for the next step.
 
 2. **Make the Test Pass (Green):**  
-   Write just enough code to make the test pass. Avoid anticipating future requirements — focus only on satisfying the immediate behavior.
+   Write just enough code to make the test pass. Avoid anticipating future requirements; focus only on satisfying the immediate behavior.
 
 3. **Refactor (Improve the Design):**  
    Once the test passes, clean up your code. Simplify logic, eliminate duplication, and improve readability without changing behavior. Your test suite now acts as a safety net, allowing you to refactor confidently.
 
-> **Tip:** Keep each cycle short — ideally just a few minutes. During coderetreats, notice how frequent cycles help keep your code clear and prevent “big bang” changes.
+> **Tip:** Keep each cycle short - ideally just a few minutes. During coderetreats, notice how frequent cycles help keep your code clear and prevent “big bang” changes.
 
 ---
 
