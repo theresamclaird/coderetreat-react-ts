@@ -9,4 +9,4 @@ A coderetreat is a day dedicated to practicing software design and teamwork, fre
     <td>⬅️ [Previous: *README*](../README.md)</td>
     <td>➡️ [Next: *Goals of a Coderetreat*](./goals.md)</td>
   </tr>
-</div>
+</table>
