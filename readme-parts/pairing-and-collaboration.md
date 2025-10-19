@@ -51,7 +51,7 @@ Coderetreats are a safe space to experiment.
 If you usually default to Driver/Navigator, try Ping-Pong or Strong-Style pairing for a session. You may discover new insights—not just about the problem, but about how you collaborate.
 
 ## Further Reading
-- [Llewellyn Falco – Strong-Style Pairing](https://llewellynfalco.blogspot.com/2014/06/strong-style-pairing.html)
+- [Llewellyn Falco – Strong-Style Pairing](https://llewellynfalco.blogspot.com/2014/06/llewellyns-strong-style-pairing.html)
 - [Martin Fowler – Pair Programming](https://martinfowler.com/articles/on-pair-programming.html)
 - [Emily Bache – Effective Pair Programming](https://coding-is-like-cooking.info/2013/07/effective-pair-programming/)
 - [Agile Alliance – Pair Programming Definition](https://www.agilealliance.org/glossary/pairing/)
