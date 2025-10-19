@@ -4,4 +4,4 @@ A coderetreat is a day dedicated to practicing software design and teamwork, fre
 
 ---
 
-[← Previous: Return to README](../README.md) | [Next: Goals of a Coderetreat →](./goals.md)
+[← Return to README](../README.md) | [Next: Goals of a Coderetreat →](./goals.md)
