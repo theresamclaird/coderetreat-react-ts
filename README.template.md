@@ -12,6 +12,8 @@ If you're participating in a coderetreat, **fork this repository** as your perso
 
 <!-- include: docs/readme-parts/pairing-and-collaboration.md levelOffset=1 -->
 
+<!-- include: docs/constraints.md levelOffset=1 -->
+
 ## Quick Start
 
 ```bash
