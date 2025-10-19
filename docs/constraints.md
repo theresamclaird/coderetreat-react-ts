@@ -40,9 +40,8 @@ The link to Corey Haines facilitator guide below contains several interesting su
 
 Explore constraints and have fun!
 
-## Tips for Facilitators (or Pairs)
+### Tips for Choosing Constraints
 
-  - Choose constraints that align with what you want to explore next.
   - Choose constraints that align with what you want to explore next.
   - Introduce one new constraint per round; don’t stack too many.
   - Reflect afterward: What did we learn from the limitation?
@@ -50,9 +49,11 @@ Explore constraints and have fun!
 
 ⸻
 
-## Explore Constraints This Afternoon
+## When to Incorporate Constraints
 
-By the afternoon or after a couple of rounds you will have become familiar with the problem domain. This is a great time to try a constraint that feels uncomfortable. It’s often in those rounds that the biggest insights happen.
+If you and your partner are experienced with coderetreats or already know the problem domain well, dive right in; constraints are an excellent way to stretch your skills and explore new approaches early in the day.
+
+If you’re new to coderetreats, wait until the afternoon or after a few rounds before adding constraints. By then, you’ll be comfortable with the problem and might notice yourself repeating familiar patterns. That’s the perfect moment to introduce a constraint that feels a little uncomfortable. Those rounds often lead to the biggest insights.
 
 ⸻
 
