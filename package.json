@@ -27,8 +27,8 @@
     "test:ci": "CI=true npm test",
     "reset:git": "git reset --hard HEAD && git clean -fdx",
     "reset:baseline": "node scripts/reset-baseline.mjs",
-    "readme:build": "node scripts/build-readme.mjs",
-    "readme:watch": "node scripts/build-readme.mjs --watch",
+    "readme:build": "node docs/scripts/build-readme.mjs",
+    "readme:watch": "node docs/scripts/build-readme.mjs --watch",
     "docs:sync": "git subtree pull --prefix=docs https://github.com/theresamclaird/coderetreat-docs.git main --squash"
   },
   "eslintConfig": {
