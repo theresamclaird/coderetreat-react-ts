@@ -16,7 +16,7 @@ A coderetreat is a day dedicated to practicing software design and teamwork, fre
 
 Before each coding round, participants will partner up by choosing somebody they have not previously paired with. Together, you will need to decide on a programming language, and possibly even fork a repo as your starting point. While this can be a great way to experience a new language, I recommend that at least one person within the pair be experienced with the chosen language.
 
-As you will be pair-programming, you should both be working on the same files - meaning only one keyboard will be active. You will need to decide on the *style* of pair programming you will use for the round. You can learn more about styles of pair programming in the [Pairing and Collaboraiton](./pairing-and-collaboration.md) sections.
+As you will be pair-programming, you should both be working on the same files - meaning only one keyboard will be active. You will need to decide on the *style* of pair programming you will use for the round. You can learn more about styles of pair programming in the [Pairing and Collaboration](./pairing-and-collaboration.md) sections.
 
 When the round starts, you will have 45 minutes to code.
 
