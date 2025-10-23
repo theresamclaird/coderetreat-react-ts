@@ -22,7 +22,7 @@ When the round starts, you will have 45 minutes to code.
 
 After 45 minutes, pairs will **delete their code**. Yep, that is is not a typo; you will literally delete the code you just wrote. The [README](../README.md) describes an npm script you can run that will reset your forked project to its initial state. Get in the habit of doing that after each round.
 
-> The goal is to *practice*! None of this code will not be reviewed, and it will definitely not be deployed to any production environment. As tempting as it is to keep your code, the value of this experience is in the *practice* - the conversations, the insights, and the learnings you gained along the way - not the code you wrote. Deleting your code not only gives you a clean slate for the next round, but also gives you the freedom to consider new ideas and try different approaches during later rounds.
+> The goal is to *practice*! None of this code will be reviewed, and it will definitely not be deployed to any production environment. As tempting as it is to keep your code, the value of this experience is in the *practice* - the conversations, the insights, and the learnings you gained along the way - not the code you wrote. Deleting your code not only gives you a clean slate for the next round, but also gives you the freedom to consider new ideas and try different approaches during later rounds.
 
 After deleting code, we spend 15 minutes as a group, where each pair answers the following questions:
 
